@@ -1,0 +1,14 @@
+<!-- url - Server address -->
+<!-- token - Unique code for the image server -->
+<!-- id - Unique image name -->
+<!-- cron - Command to run cron -->
+
+
+<data>
+    <screenshot>
+		<url>http://screenpinch.herokuapp.com/upload</url>
+		<token>1234</token>
+		<id>idexample</id>
+		<cron>*/2 * * * *</cron>
+    </screenshot>
+</data>
